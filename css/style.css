@@ -1958,7 +1958,10 @@ h3.small_heading {
 .margin-bottom_30 {
 	margin-bottom: 30px;
 }
-
+.logoinpage{
+	width:250px;
+	height:160px;
+}
 .carousel a.carousel-control-prev {
     background: #FFF500;
     opacity: 1;
