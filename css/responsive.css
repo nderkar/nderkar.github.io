@@ -70,7 +70,7 @@ a.navbar-brand img {
          margin: 12px 0px;
     }
      .lbox-details::before{
-         background: rgba(0, 0, 0, 0.6);
+         background: rgba(0, 0, 0, 0.1);
     }
      .countdown{
          height: 188px;
@@ -195,7 +195,7 @@ a.navbar-brand img {
         text-align: center;
    }
      .lbox-details a.btn{
-         display: block;
+         display: none;
          margin-left: 10%;
          margin-right: 10%;
          text-align: center;
@@ -269,7 +269,7 @@ a.navbar-brand img {
          margin: 12px 0px;
     }
      .lbox-details::before{
-         background: rgba(0,0,0,0.6);
+         background: rgba(0,0,0,0.1);
     }
      .countdown{
          height: 188px;
