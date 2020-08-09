@@ -920,7 +920,7 @@ span.icon img {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background: #070500;
+	background: #095a83;
 	border-radius: 100%;
 	-webkit-transform: scale(0);
 	transform: scale(0);
@@ -1782,6 +1782,10 @@ p {
 
 .red_bg {
 	background: #e91327;
+}
+
+.custom_bg {
+	background: #faf339;
 }
 
 .white_fonts p,
