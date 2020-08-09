@@ -1509,15 +1509,11 @@ h6 {
   .back-to-top {
     bottom: 15px;
   }
-  .logotoggle{
-    display: none;
-  }
+  
   .heading_main h3 {
     font-size: 25px;
   }
-  .centeralignmobile{
-    text-align: center;
-  }
+  
 }
 
 @media (max-width: 767px) {
@@ -1548,10 +1544,17 @@ h6 {
   #testimonials .testimonial-item p {
     margin-left: 0;
   }
+  .logotoggle{
+    display: none;
+  }
+  .centeralignmobile{
+    text-align: center;
+  }
 }
 
 @media (max-width: 574px) {
   #intro {
     padding: 100px 0 20px 0;
   }
+  
 }
