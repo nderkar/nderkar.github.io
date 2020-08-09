@@ -10,7 +10,7 @@
 /*------------------------------------------------------------------ 
     IMPORT FILES 
 -------------------------------------------------------------------*/
-.hhd{color:#eee951;}
+
 @import url(animate.css);
 @import url(font-awesome.min.css);
 @import url(magnific-popup.css);
@@ -1842,7 +1842,7 @@ p {
 	padding-bottom: 30px;
 }
 .full p span{
-	font-weight: 600;
+	font-weight: 500;
 	padding: 0 0 0 0;
     margin: 0 0 0 0;
 }
