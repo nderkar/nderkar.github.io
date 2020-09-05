@@ -332,7 +332,7 @@ h6 {
 .main-nav .drop-down ul a:hover,
 .main-nav .drop-down ul .active > a,
 .main-nav .drop-down ul li:hover > a {
-  color: #007bff;
+  color: #fbff00;
 }
 
 .main-nav .drop-down > a:after {

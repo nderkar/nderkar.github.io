@@ -375,7 +375,7 @@ a.navbar-brand img {
     height: 50px;
 }
 
-.top-header .navbar .navbar-collapse ul li a.active {}
+.top-header .navbar .navbar-collapse ul li a.active ,
 .top-header .navbar .navbar-collapse ul li a:hover,
 .top-header .navbar .navbar-collapse ul li a:focus {
 	
