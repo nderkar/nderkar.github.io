@@ -11,3 +11,5 @@ ECEDEF
 BCD900
 
 https://localhost:44370/img/logo.png
+
+https://my.freenom.com/cart.php?a=confdomains&language=english
