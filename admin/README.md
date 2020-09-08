@@ -108,7 +108,7 @@ AdminLTE.io reserves the right to change the license of future releases.
 
 ## Latest Release
 
-- [AdminLTE 3](https://github.com/ColorlibHQ/AdminLTE/releases/latest)
+- [Perfect EHS Solution](https://github.com/ColorlibHQ/AdminLTE/releases/latest)
 
 ## Legacy Releases
 
